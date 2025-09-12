@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First HTML Page</title>
+</head>
+<body>
+<h1>Welcome to My Web Page</h1>
+<p>This is a simple HTML example.</p>
+<ul>
+<li>HTML = Structure</li>
+<li>CSS = Style</li>
+<li>JavaScript = Functionality</li>
+</ul>
+</body>
+</html>

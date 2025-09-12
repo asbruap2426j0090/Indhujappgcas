@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple CSS Example</title>
+<style>
+body {
+background-color: #f0f8ff;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+h1 {
+color: darkblue;
+}
+p {
+color: green;
+font-size: 18px;
+}
+</style>
+</head>
+<body>
+<h1>Hello, CSS!</h1>
+<p>This text is styled with CSS.</p>
+</body>
+</html>
